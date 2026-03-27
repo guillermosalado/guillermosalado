@@ -1,57 +1,67 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1f2937&height=200&section=header&text=Hola%2C%20soy%20Guillermo%20Salado&fontSize=38&fontColor=ffffff&desc=Backend%20Developer%20en%20formación%20|%20APIs%20·%20Node.js%20·%20SQL&descSize=18&descAlignY=65"/>
-</p>
+<div align="center">
 
-<h2 align="center">👨‍💻 Sobre mí</h2>
+# Guillermo López Salado
 
-<p align="center">
-Soy desarrollador backend en formación con enfoque en APIs REST,
-arquitectura en capas y bases de datos relacionales.
-Me enfoco en la construcción de sistemas escalables y en la aplicación de buenas prácticas de diseño.
-</p>
+### Backend Developer · Laravel · Node.js · MySQL · Docker
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/guillermosalado">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>  
-  <a href="mailto:glopezsalado@gmail.com">
-    <img src="https://img.shields.io/badge/glopezsalado@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<h2 align="center">🛠️ Tecnologías</h2>
+</div>
 
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
+---
 
-<h3 align="center">Bases de Datos</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340"/>
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-</p>
+Soy Memo, desarrollador backend de Guerrero, México.
 
-<h3 align="center">Herramientas</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+Me gusta construir cosas que funcionen. APIs, bases de datos, sistemas que resuelvan algo concreto. Me enfoco en usar herramientas que realmenten aporten valor al problema, evitando complejidad innecesaria.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1f2937&height=100&section=footer"/>
-</p>
+Actualmente terminando mi TSU en Desarrollo de Software, con dos proyectos fullstack en GitHub y uno desplegado en producción. Buscando estadía profesional donde pueda aportar en backend real.
+
+Cuando no estoy programando, estoy en Minecraft o rompiendo algo en Linux para ver cómo arreglarlo.
+
+<br clear="right"/>
+
+---
+
+##  Proyectos
+
+### [ControlaStock](https://github.com/guillermosalado/controlastock)
+Sistema multi-tenant de inventario, ventas y reportes · Desplegado en producción
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS_Vanilla-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+- Autenticación con Laravel Sanctum (token-based), control de acceso por rol
+- Cada tienda opera con datos aislados — arquitectura multi-tenant
+- Frontend SPA en JS vanilla con routing via History API, sin frameworks
+- Docker Compose para entorno de desarrollo · Equipo de 4 personas
+
+---
+
+### [Task Manager](https://github.com/guillermosalado/task-manager)
+Gestor de tareas fullstack con API REST y autenticación propia
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+- Autenticación por sesiones, protección de rutas y hash de contraseñas
+- Validación y sanitización de inputs en cada endpoint
+- Arquitectura MVC, middleware reutilizable
+
+---
+
+##  Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermosalado)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glopezsalado@gmail.com)
+[![ControlaStock](https://img.shields.io/badge/Demo_en_vivo-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://controlastock.dsm52.com)
