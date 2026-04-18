@@ -16,13 +16,13 @@
 
 <img align="right" src="https://media1.tenor.com/m/GTzbJen5xcoAAAAC/cute-wallpaper.gif" width="280"/>
 
-Me gusta entender cómo funcionan las cosas antes de usarlas. Disfruto el proceso de pensar, <br>buscar y aprender, no solo el resultado. Suelo tomar algo y llevarlo a algo simple y limpio, <br>aunque al inicio no lo sea.
+Me gusta entender cómo funcionan las cosas antes de usarlas. Disfruto el proceso de pensar, buscar y aprender, no solo el resultado. Suelo tomar algo y llevarlo a algo simple y limpio, aunque al inicio no lo sea.
 
-Si algo no me cuadra, termino rehaciéndolo hasta que tenga sentido. A veces me frustro y <br>dejo cosas a medias, pero cuando algo se me queda dando vueltas, termino regresando hasta resolverlo.
+Si algo no me cuadra, termino rehaciéndolo hasta que tenga sentido. A veces me frustro y dejo cosas a medias, pero cuando algo se me queda dando vueltas, termino regresando hasta resolverlo.
 
-No soy muy convencional. Me gusta hacer las cosas a mi manera, no seguir recetas y buscar<br> soluciones aunque tome más tiempo.
+No soy muy convencional. Me gusta hacer las cosas a mi manera, no seguir recetas y buscar soluciones aunque tome más tiempo.
 
-Fuera del código, me gusta desconectarme un rato y jugar algo, aunque casi siempre termino<br> volviendo a pensar en cómo arreglar lo que dejé a medias.
+Fuera del código, me gusta desconectarme un rato y jugar algo, aunque casi siempre termino volviendo a pensar en cómo arreglar lo que dejé a medias.
 
 <br clear="right"/>
 
