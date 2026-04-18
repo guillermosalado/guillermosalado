@@ -14,16 +14,15 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340"/>
+<img align="right" src="https://media1.tenor.com/m/GTzbJen5xcoAAAAC/cute-wallpaper.gif" width="280"/>
 
-Me gusta entender cómo funcionan las cosas antes de usarlas. Disfruto el proceso de pensar, buscar y aprender, no solo el resultado.
-Suelo tomar algo y llevarlo a algo simple y limpio, aunque al inicio no lo sea. 
+Me gusta entender cómo funcionan las cosas antes de usarlas. Disfruto el proceso de pensar, <br>buscar y aprender, no solo el resultado. Suelo tomar algo y llevarlo a algo simple y limpio, <br>aunque al inicio no lo sea.
 
-Si algo no me cuadra, termino rehaciéndolo hasta que tenga sentido. A veces me frustro y dejo cosas a medias, pero cuando algo se me queda dando vueltas, termino regresando hasta resolverlo.
+Si algo no me cuadra, termino rehaciéndolo hasta que tenga sentido. A veces me frustro y <br>dejo cosas a medias, pero cuando algo se me queda dando vueltas, termino regresando hasta resolverlo.
 
-No soy muy convencional. Me gusta hacer las cosas a mi manera, no seguir recetas y buscar soluciones aunque tome más tiempo.
+No soy muy convencional. Me gusta hacer las cosas a mi manera, no seguir recetas y buscar<br> soluciones aunque tome más tiempo.
 
-Fuera del código, me gusta desconectarme un rato y jugar algo, aunque casi siempre termino volviendo a pensar en cómo arreglar lo que dejé a medias.
+Fuera del código, me gusta desconectarme un rato y jugar algo, aunque casi siempre termino<br> volviendo a pensar en cómo arreglar lo que dejé a medias.
 
 <br clear="right"/>
 
@@ -39,7 +38,7 @@ Sistema web que permite a múltiples comercios gestionar inventario, ventas y re
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JS_Vanilla-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-- Cada tienda opera con datos completamente aislados — arquitectura multi-tenant sobre una sola instancia
+- Cada tienda opera con datos completamente aislados — arquitectura multi-tenant gestionada mediante middleware que valida el contexto de tienda en cada request
 - Autenticación con Laravel Sanctum (token-based), control de acceso por rol
 - Frontend SPA en JS Vanilla con routing via History API, sin frameworks adicionales
 - Docker Compose para entorno de desarrollo reproducible · Equipo de 4 personas
@@ -54,8 +53,7 @@ Solución para teclas especiales del Huawei MateBook D16 en Linux
 ![systemd](https://img.shields.io/badge/systemd-000000?style=flat-square&logo=linux&logoColor=white)
 
 - Varias teclas comparten el mismo scancode a nivel de kernel — imposible diferenciarlas con un mapeo simple
-- Daemon Python que monitorea dos dispositivos de input simultáneamente para identificar cada tecla por su comportamiento
-- hwdb + keyd + servicio systemd de usuario
+- Daemon Python que monitorea dos dispositivos de input simultáneamente e identifica cada tecla por su comportamiento, no por su scancode
 
 ---
 
@@ -67,9 +65,8 @@ Aplicación web para gestión de tareas y eventos con autenticación propia y co
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-- Autenticación por sesiones, protección de rutas y hash de contraseñas
-- Validación y sanitización de inputs en cada endpoint
-- Arquitectura MVC, middleware reutilizable
+- Arquitectura MVC sobre Express — separación de rutas, controladores y modelos para mantener el código mantenible sin dependencia de frameworks adicionales
+- Autenticación por sesiones, validación de inputs y manejo centralizado de errores
 
 ---
 
