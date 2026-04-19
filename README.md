@@ -45,7 +45,7 @@ Sistema web que permite a múltiples comercios gestionar inventario, ventas y re
 
 ---
 
-### [MateBook D16 — Special Keys on Linux](https://github.com/guillermosalado/matebook-d16-linux-keys)
+### [MateBook D16 — Special Keys on Linux](https://github.com/guillermosalado/huawei-matebook-d16-linux-keyboard-fix)
 Solución para teclas especiales del Huawei MateBook D16 en Linux
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
