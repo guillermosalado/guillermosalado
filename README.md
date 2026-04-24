@@ -16,11 +16,11 @@
 
 <img align="right" src="https://media1.tenor.com/m/GTzbJen5xcoAAAAC/cute-wallpaper.gif" width="280"/>
 
-Me gusta entender cómo funcionan las cosas antes de usarlas. Disfruto analizar problemas, investigar y convertir soluciones complejas en implementaciones más simples y mantenibles.
+Me gusta entender cómo funcionan las cosas antes de usarlas. Disfruto el proceso de analizar, investigar y simplificar problemas hasta convertirlos en soluciones claras y mantenibles.
 
-Trabajo principalmente en backend, desarrollando APIs y sistemas donde la claridad del código, la estructura y el control del flujo son clave. He trabajado en sistemas multi-tenant, autenticación y control de acceso, priorizando siempre que el comportamiento del sistema sea predecible y fácil de mantener.
+Trabajo principalmente en backend, diseñando APIs y sistemas donde la estructura, la claridad del código y el control del flujo son clave. Suelo tomar implementaciones complejas y llevarlas a algo más simple y predecible, aunque al inicio no lo sea.
 
-Si algo no me cuadra, termino rehaciéndolo hasta que tenga sentido, especialmente en temas de arquitectura, flujo de datos o validación.
+Prefiero entender a fondo los sistemas antes de implementarlos, lo que me permite diseñar soluciones más simples y mantenibles.
 
 Fuera del código, me gusta desconectarme un rato y jugar algo, aunque casi siempre termino regresando a pensar en cómo mejorar lo que dejé a medias.
 
