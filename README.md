@@ -20,8 +20,6 @@ Me gusta entender cómo funcionan las cosas antes de usarlas. Disfruto el proces
 
 Trabajo principalmente en backend, diseñando APIs y sistemas donde la estructura, la claridad del código y el control del flujo son clave. Suelo tomar implementaciones complejas y llevarlas a algo más simple y predecible, aunque al inicio no lo sea.
 
-Prefiero entender a fondo los sistemas antes de implementarlos, lo que me permite diseñar soluciones más simples y mantenibles.
-
 Fuera del código, me gusta desconectarme un rato y jugar algo, aunque casi siempre termino regresando a pensar en cómo mejorar lo que dejé a medias.
 
 <br clear="right"/>
